@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simran Kalaskar.</h1>
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://png.pngtree.com/png-vector/20210518/ourmid/pngtree-namaskar-hand-gesture-png-image_3313129.jpg" alt="Welcome to my Github Profile" />
+  <img src="https://thumbs.dreamstime.com/b/indian-woman-welcome-gesture-festival-vector-44030243.jpg?w=768.jpg" alt="Welcome to my Github Profile" />
   <br />
 <h3 align="center">Passionate about learning new technologies. Always ready to work hard in the process of making technology more powerful.Love to learn more and more about the new technologies of this new world. I believe that no matter how much technology advances, it should be used for the welfare of Humanity and building one’s character.</h3>
 
