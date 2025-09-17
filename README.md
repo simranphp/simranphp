@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simran Kalaskar.</h1>
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="[https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true](https://www.google.com/imgres?q=welcome%20png&imgurl=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F151-1518517_namaskar-png-image-download-welcome-lady-png-transparent.png&imgrefurl=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FiRRihoR_namaskar-png-image-download-welcome-lady-png-transparent%2F&docid=WoNDF8bObOqysM&tbnid=1Vo-7KJgKHFgpM&vet=12ahUKEwiPq9uz5N-PAxVqWHADHf1fJLE4ChAzegQIXBAA..i&w=860&h=912&hcb=2&ved=2ahUKEwiPq9uz5N-PAxVqWHADHf1fJLE4ChAzegQIXBAA)" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://www.google.com/imgresq=namaskar%20%20%20text%20png&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fe9%2F60%2F13%2Fe96013600d375a6cbe8f225355193b17.jpg&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2F976225656711219500%2F&docid=VMBNXapmYWfTnM&tbnid=w16aY69FQ8q0sM&vet=12ahUKEwjZyemt5d-PAxXHUGcHHe1yH3QQM3oECBwQAA..i&w=736&h=414&hcb=2&ved=2ahUKEwjZyemt5d-PAxXHUGcHHe1yH3QQM3oECBwQAA", alt="Welcome to my Github Profile" />
   <br />
 <h3 align="center">Passionate about learning new technologies. Always ready to work hard in the process of making technology more powerful.Love to learn more and more about the new technologies of this new world. I believe that no matter how much technology advances, it should be used for the welfare of Humanity and building one’s character.</h3>
 
