@@ -5,7 +5,7 @@
   <br />
 <h3 align="center">Passionate about learning new technologies. Always ready to work hard in the process of making technology more powerful.Love to learn more and more about the new technologies of this new world. I believe that no matter how much technology advances, it should be used for the welfare of Humanity and building one’s character.</h3>
 
-<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /><br>
+<img alt="Coder GIF" height=250 width=350 src="[https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif](https://drive.google.com/file/d/1N6Wgg_Liz_p4bH0692pMI8idU-gGOTnW/view?usp=drive_link)" /><br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranphp&label=Profile%20views&color=0e75b6&style=flat" alt="simranphp" /> </p>
