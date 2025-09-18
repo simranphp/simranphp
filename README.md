@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simran Kalaskar.</h1>
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://png.pngtree.com/png-clipart/20221206/ourmid/pngtree-suswagatam-indian-woman-marathi-welcoming-namaste-png-image_6513434.png" 
+  <img src="https://png.pngtree.com/png-clipart/20210803/ourmid/pngtree-hindi-local-lettering-suswagatam-handwritten-calligraphy-png-image_3765590.jpg"
      alt="Welcome to my Github Profile" width="360" height="360" />
  
 
