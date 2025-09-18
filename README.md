@@ -31,5 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simranphp&show_icons=true&locale=en" alt="simranphp" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=simranphp" 
-       alt="simranphp streak stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simranphp" alt="simranphp" />
+
+
