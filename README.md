@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simran Kalaskar.</h1>
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://thumbs.dreamstime.com/b/indian-woman-welcome-gesture-festival-vector-44030243.jpg?w=768.jpg" alt="Welcome to my Github Profile" />
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20221206%2Fourmid%2Fpngtree-suswagatam-indian-woman-marathi-welcoming-namaste-png-image_6513434.png&tbnid=Os91SAfGgePIoM&vet=1&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Fnamaskar-sign-clipart&docid=DSAHbW9GCN5s1M&w=360&h=360&source=sh%2Fx%2Fim%2Fm1%2F1&kgs=6823a787d74c3bb6&shem=isst.jpg" alt="Welcome to my Github Profile" />
   <br />
 <h3 align="center">Passionate about learning new technologies. Always ready to work hard in the process of making technology more powerful.Love to learn more and more about the new technologies of this new world. I believe that no matter how much technology advances, it should be used for the welfare of Humanity and building one’s character.</h3>
 
