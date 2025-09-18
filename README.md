@@ -3,8 +3,9 @@
 <div align="center">
   <img src="https://png.pngtree.com/png-clipart/20221206/ourmid/pngtree-suswagatam-indian-woman-marathi-welcoming-namaste-png-image_6513434.png" 
      alt="Welcome to my Github Profile" width="360" height="360" />
-  <img src="https://png.pngtree.com/so/suswagatam.png" 
-     alt="suswagatam" width="300" height="300">
+  <img src="https://pngtree.com/freepng/graceful-indian-lady-greeting-with-namaste_19690479.png"
+     alt="Indian woman greeting with Namaste" width="360" height="360" />
+
 
   <br />
 <h3 align="center">Passionate about learning new technologies. Always ready to work hard in the process of making technology more powerful.Love to learn more and more about the new technologies of this new world. I believe that no matter how much technology advances, it should be used for the welfare of Humanity and building one’s character.</h3>
